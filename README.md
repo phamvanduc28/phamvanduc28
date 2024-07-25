@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thành Nam Nguyễn aka Yuu
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phạm Văn Đức 
 ========================================================================================================================================
 
-I'm Web Developer from `Code Lyoko Team`
+I'm Web Developer from `Code`
 ---------------------------------
 
-`Code Lyoko` is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA. This is a movie that I have liked since I was young, so I named my team after this movie.
+`Code ` is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA. This is a movie that I have liked since I was young, so I named my team after this movie.
 
 * 🌍  I'm based in Viet Nam
-* 🖥️  See my portfolio website at [thanhnamnguyen.dev](http://www.thanhnamnguyen.dev/)
-* 📝  Blog at [blog.thanhnamnguyen.dev](http://blog.thanhnamnguyen.dev/)
-* ✉️  You can contact me at [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
+* 🖥️  See my portfolio website at [)
+* 📝  Blog at
+* ✉️  You can contact me at [phamvanduc@gmail.com](mailto:phamvanduc@gmail.com)
 
 <a href="https://www.github.com/namnguyenthanhwork" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/namnguyenthanhwork?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
