@@ -11,7 +11,7 @@ I'm Web Developer from `Code`
 * 📝  Blog at
 * ✉️  You can contact me at [phamvanduc@gmail.com](mailto:phamvanduc@gmail.com)
 
-<a href="[https://www.github.com/namnguyenthanhwork](https://github.com/phamvanduc28)" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/phamvanduc28" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/namnguyenthanhwork?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
 
 ### Skills
